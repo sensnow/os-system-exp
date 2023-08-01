@@ -133,7 +133,7 @@
 
 - 主页
 
-  ![image-20230801144724681](https://cdn.sensnow.cn/uPic/image-20230801144724681.png)
+  ![image2.png](https://images.sensnow.cn/hEjH14.png)
 
 - 磁盘信息
 
@@ -141,7 +141,7 @@
 
 - 文件编辑器
 
-  ![image-20230801145057582](https://cdn.sensnow.cn/uPic/image-20230801145057582.png)
+  ![image1.png](https://images.sensnow.cn/x5tfSH.png)
 
 - 目录页面
 
