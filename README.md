@@ -97,37 +97,37 @@
 
 - 目录配置
 
-``` properties
-# 文件夹图标的列数
-directoryIconNumCols = 10
-# 文件夹图标的行数
-directoryIconNumRows = 8
-# 根目录图标路径
-rootDirectoryImage =  /com/example/file/image/rootDirectory.png
-# 朝左的图标(灰色)
-toLeftGreyImage = /com/example/file/image/toleft_grey.png
-# 朝右的图标(灰色)
-toLeftBlueImage = /com/example/file/image/toleft_blue.png
-# 朝右的图标(蓝色)
-toRightGreyImage = /com/example/file/image/toright_grey.png
-# æå³çå¾æ (èè²)
-toRightBlueImage = /com/example/file/image/toright_blue.png
-# 回到主界面的图标(灰色)
-toHomeGreyImage = /com/example/file/image/tohome_grey.png
-# 回到主界面的图标(蓝色)
-toHomeGreenImage = /com/example/file/image/tohome_green.png
-```
+  ``` properties
+  # 文件夹图标的列数
+  directoryIconNumCols = 10
+  # 文件夹图标的行数
+  directoryIconNumRows = 8
+  # 根目录图标路径
+  rootDirectoryImage =  /com/example/file/image/rootDirectory.png
+  # 朝左的图标(灰色)
+  toLeftGreyImage = /com/example/file/image/toleft_grey.png
+  # 朝右的图标(灰色)
+  toLeftBlueImage = /com/example/file/image/toleft_blue.png
+  # 朝右的图标(蓝色)
+  toRightGreyImage = /com/example/file/image/toright_grey.png
+  # æå³çå¾æ (èè²)
+  toRightBlueImage = /com/example/file/image/toright_blue.png
+  # 回到主界面的图标(灰色)
+  toHomeGreyImage = /com/example/file/image/tohome_grey.png
+  # 回到主界面的图标(蓝色)
+  toHomeGreenImage = /com/example/file/image/tohome_green.png
+  ```
 
 
 
 - Window 窗口配置
 
-```properties
-# win 关闭窗口图片
-windowCloseImage =  /com/example/file/image/close.png
-# win 最小化窗口图片
-windowMinimizeImage = /com/example/file/image/minimize.png
-```
+  ```properties
+  # win 关闭窗口图片
+  windowCloseImage =  /com/example/file/image/close.png
+  # win 最小化窗口图片
+  windowMinimizeImage = /com/example/file/image/minimize.png
+  ```
 
 # 系统图片
 
