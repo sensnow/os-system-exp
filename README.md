@@ -106,11 +106,11 @@
   rootDirectoryImage =  /com/example/file/image/rootDirectory.png
   # 朝左的图标(灰色)
   toLeftGreyImage = /com/example/file/image/toleft_grey.png
-  # 朝右的图标(灰色)
-  toLeftBlueImage = /com/example/file/image/toleft_blue.png
   # 朝右的图标(蓝色)
+  toLeftBlueImage = /com/example/file/image/toleft_blue.png
+  # 朝右的图标(灰色)
   toRightGreyImage = /com/example/file/image/toright_grey.png
-  # æå³çå¾æ (èè²)
+  # 朝右的图标(蓝色)
   toRightBlueImage = /com/example/file/image/toright_blue.png
   # 回到主界面的图标(灰色)
   toHomeGreyImage = /com/example/file/image/tohome_grey.png
